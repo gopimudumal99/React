@@ -1,9 +1,6 @@
-# Getting Started with Create React App
+# Todo React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
+### json-server --watch db.json --port 3004
 In the project directory, you can run:
 
 ### `npm start`
